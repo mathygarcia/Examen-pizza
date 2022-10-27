@@ -1,0 +1,32 @@
+.active {
+    color: white;
+    margin: 2vh;
+    /* text-decoration: none;
+    text-align: center; */
+}
+.noActive {
+    color: rgb(241, 0, 0);
+    margin: 2vh;
+    /* text-decoration: none;
+    text-align: center; */
+}
+.navlink{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0%;
+
+}
+.icono-pizza{
+    width: 8%;
+    margin-right: 5%;
+}
+.icono-carrito{
+    width: 8%;
+    margin-right: 5%;
+}
+/* .Container{
+    display: flex;
+    flex-direction: row;
+} */

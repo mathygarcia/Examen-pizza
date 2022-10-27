@@ -1,0 +1,17 @@
+.galeria{
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    text-align: center;
+    margin-right: 10%;
+}
+.botones{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+.nombre-pizza{
+    margin-top: 7%;
+}

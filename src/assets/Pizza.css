@@ -1,0 +1,20 @@
+.contenedor-detalles{
+    width: 100%;
+}
+.contenedor-card{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    text-align: center;
+    
+}
+.boton{
+    display: flex;
+    justify-content: space-around;
+}
+.detalle-boton{
+    margin-bottom: 5%;
+}
+.img-detalle{
+    width: 50%;
+}
